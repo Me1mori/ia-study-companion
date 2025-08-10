@@ -42,7 +42,7 @@ Cada proyecto tiene su **README.md** el cual va a tener una sección de guía de
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes conultar el archivo [LICENCE](/LICENSE/license) para más detalles
+Este proyecto está bajo la licencia MIT. Puedes conultar el archivo [LICENCE](./LICENSE) para más detalles
 
 ---
 
